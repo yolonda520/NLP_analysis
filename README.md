@@ -1,4 +1,5 @@
 # NLP_analysis
+## Date: 2020-2-27
 # Speech to Text with NLP Analysis project
 ## Goal:
 1. Develop a custom business case in class that will include semi-structured text data. Then present the business insight based on the quantitative frameworks. 
